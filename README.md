@@ -25,8 +25,7 @@ Este é um exemplo de estrutura de projeto em Java para o gerenciamento de pesso
 
 ## Estrutura de Diretórios
 
-```plaintext
-projeto-industria/
+ProjeData_Industria/
 ├── src/
 │   ├── model/
 │   │   ├── Pessoa.java
@@ -34,9 +33,8 @@ projeto-industria/
 │   ├── service/
 │   │   └── FuncionarioService.java
 │   └── app/
-│       └── Principal.java
-└── build.gradle (ou pom.xml se usar Maven)
-
+│       └── App.java
+└── build.gradle
 
 
 model/: Classes de domínio (Pessoa e Funcionário)
