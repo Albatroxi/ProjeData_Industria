@@ -32,6 +32,17 @@ projeto-industria/
 
 
 
+projeto-industria/
+├── src/
+│   ├── model/
+│   │   ├── Pessoa.java
+│   │   └── Funcionario.java
+│   ├── service/
+│   │   └── FuncionarioService.java
+│   └── app/
+│       └── Principal.java
+└── build.gradle (ou pom.xml se usar Maven)
+
 
 model/: Classes de domínio (Pessoa e Funcionário)
 
