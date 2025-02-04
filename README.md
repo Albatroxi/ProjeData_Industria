@@ -19,19 +19,13 @@ O código foi desenvolvido com base em um teste prático de programação.
 
 ## 🗂️ Estrutura do Projeto
 
-projeto-industria/
-├── src/
-│   ├── model/
-│   │   ├── Pessoa.java
-│   │   └── Funcionario.java
-│   ├── service/
-│   │   └── FuncionarioService.java
-│   └── app/
-│       └── app.java
-└── build.gradle
+# Projeto Indústria
 
+Este é um exemplo de estrutura de projeto em Java para o gerenciamento de pessoas e funcionários em uma indústria.
 
+## Estrutura de Diretórios
 
+```plaintext
 projeto-industria/
 ├── src/
 │   ├── model/
@@ -42,6 +36,7 @@ projeto-industria/
 │   └── app/
 │       └── Principal.java
 └── build.gradle (ou pom.xml se usar Maven)
+
 
 
 model/: Classes de domínio (Pessoa e Funcionário)
