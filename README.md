@@ -19,12 +19,6 @@ O código foi desenvolvido com base em um teste prático de programação.
 
 ## 🗂️ Estrutura do Projeto
 
-# Projeto Indústria
-
-Este é um exemplo de estrutura de projeto em Java para o gerenciamento de pessoas e funcionários em uma indústria.
-
-## Estrutura de Diretórios
-
 ```plaintext
 ProjeData_Industria/
 ├── src/
